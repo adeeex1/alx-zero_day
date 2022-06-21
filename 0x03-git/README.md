@@ -1,1 +1,1 @@
-This is readme file to do 0x03_git project.
+This is readme file is to do 0x03-git project.
