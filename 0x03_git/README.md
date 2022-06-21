@@ -1,1 +1,0 @@
-This is readme file to do 0x03_git project.
